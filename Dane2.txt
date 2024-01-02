@@ -1,0 +1,4 @@
+Janusz Kowal 5 5 1 2
+Barbara Kwiat 1 1 6 6
+Ireneusz Rdzen 3 3 3 3
+Anna Komputer 1 5 4 3
